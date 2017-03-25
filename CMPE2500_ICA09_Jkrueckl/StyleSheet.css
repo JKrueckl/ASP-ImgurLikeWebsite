@@ -1,0 +1,31 @@
+﻿	
+input[type="button"], #statusLabel{
+    width: 100%;
+}
+
+img{
+    margin: 1%;
+}
+
+/* Classes */
+
+.container{
+    border-radius: 5px;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 2%;
+}
+
+.container-fluid{
+    margin-top: 2%;
+}
+
+.row{
+    margin-top: 1%;
+}
+
+/* Id's */
+
+#AddAgain{
+    margin-top: 2%;
+}
